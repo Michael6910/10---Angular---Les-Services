@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Mojito",
+    "price": 15,
+    "img": "https://www.destinationcocktails.fr/wp-content/uploads/recipes/214_mojito.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Spritz",
+    "price": 18,
+    "img": "https://www.destinationcocktails.fr/wp-content/uploads/recipes/348_spritz.jpg"
+  }
+]
